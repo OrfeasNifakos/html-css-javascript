@@ -27,4 +27,13 @@ div {
 input {
     width:50px;
     padding: 5px;
+    font-size:18px;
+    background-color: darksalmon;
+    border: none;
+    text-align: center;
+}
+
+
+input:focus {
+    outline:none;
 }
